@@ -1,8 +1,8 @@
-import AirBnb from "./AirBnb/AirBnb";
+import TravelJournal from "./TravelJournal/TravelJournal";
 
 const App = () => {
     return (
-        <AirBnb />
+        <TravelJournal />
     );
 };
 
